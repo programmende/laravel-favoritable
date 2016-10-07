@@ -1,0 +1,27 @@
+{
+    "name": "programmende/favoritable",
+    "type": "library",
+    "description": "Adds favoritable features to your models for Laravel.",
+    "license": "MIT",
+    "keywords": ["laravel", "favoritable"],
+    "authors": [
+        {
+            "name": "Christian Zörkler",
+            "email": "christian.zoerkler@programmende.de"
+        }
+    ],
+    "require": {
+        "Illuminate/Support": "5.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Programmende\\Favoritable\\": "src/"
+        }
+    },
+    "autoload-dev": {
+          
+    },
+    "require-dev": {
+        
+    }
+}
