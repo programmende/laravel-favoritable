@@ -1,5 +1,5 @@
 {
-    "name": "programmende/favoritable",
+    "name": "programmende/laravel-favoritable",
     "type": "library",
     "description": "Adds favoritable features to your models for Laravel.",
     "license": "MIT",
